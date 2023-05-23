@@ -1,0 +1,15 @@
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.exe
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.deps.json
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.runtimeconfig.json
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.dll
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.pdb
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.dll
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\refint\PacktLibraryModern.dll
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.pdb
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapter5\PacktLibraryModern\obj\Debug\net7.0\ref\PacktLibraryModern.dll

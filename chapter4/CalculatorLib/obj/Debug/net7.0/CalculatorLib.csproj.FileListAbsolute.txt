@@ -1,0 +1,5 @@
+C:\Users\sewah\Csharp\chapter4\CalculatorLib\obj\Debug\net7.0\CalculatorLib.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapter4\CalculatorLib\obj\Debug\net7.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapter4\CalculatorLib\obj\Debug\net7.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapter4\CalculatorLib\obj\Debug\net7.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapter4\CalculatorLib\obj\Debug\net7.0\CalculatorLib.csproj.CoreCompileInputs.cache

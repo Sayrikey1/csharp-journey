@@ -1,0 +1,26 @@
+public interface IGamePlayer
+{
+    void Lose();
+}
+public interface IKeyHolder
+{
+    void Lose();
+}
+public class Person : IGamePlayer, IKeyHolder
+{
+    public void Lose() // implicit implementation
+    {
+        // implement losing a key
+    }
+    void IGamePlayer.Lose() // explicit implementation
+    {
+        // implement losing a game
+    }
+}
+
+// calling implicit and explicit implementations of Lose
+// Person p = new();
+// p.Lose(); // calls implicit implementation of losing a key
+// ((IGamePlayer)p).Lose(); // calls explicit implementation of losing a game
+// IGamePlayer player = p as IGamePlayer;
+// player.Lose(); // calls explicit implementation of losing a game

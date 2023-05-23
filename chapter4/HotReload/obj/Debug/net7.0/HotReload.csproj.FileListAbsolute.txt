@@ -1,0 +1,15 @@
+C:\Users\sewah\Csharp\chapter4\HotReload\bin\Debug\net7.0\HotReload.exe
+C:\Users\sewah\Csharp\chapter4\HotReload\bin\Debug\net7.0\HotReload.deps.json
+C:\Users\sewah\Csharp\chapter4\HotReload\bin\Debug\net7.0\HotReload.runtimeconfig.json
+C:\Users\sewah\Csharp\chapter4\HotReload\bin\Debug\net7.0\HotReload.dll
+C:\Users\sewah\Csharp\chapter4\HotReload\bin\Debug\net7.0\HotReload.pdb
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\HotReload.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\HotReload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\HotReload.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\HotReload.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\HotReload.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\HotReload.dll
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\refint\HotReload.dll
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\HotReload.pdb
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\HotReload.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapter4\HotReload\obj\Debug\net7.0\ref\HotReload.dll

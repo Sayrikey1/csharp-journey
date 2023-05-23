@@ -1,0 +1,15 @@
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\IterationStatements.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapter3\IterationStatements\bin\Debug\net7.0\IterationStatements.exe
+C:\Users\sewah\Csharp\chapter3\IterationStatements\bin\Debug\net7.0\IterationStatements.deps.json
+C:\Users\sewah\Csharp\chapter3\IterationStatements\bin\Debug\net7.0\IterationStatements.runtimeconfig.json
+C:\Users\sewah\Csharp\chapter3\IterationStatements\bin\Debug\net7.0\IterationStatements.dll
+C:\Users\sewah\Csharp\chapter3\IterationStatements\bin\Debug\net7.0\IterationStatements.pdb
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\IterationStatements.dll
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\refint\IterationStatements.dll
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\IterationStatements.pdb
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\IterationStatements.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapter3\IterationStatements\obj\Debug\net7.0\ref\IterationStatements.dll

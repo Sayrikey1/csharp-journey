@@ -1,0 +1,5 @@
+C:\Users\sewah\Csharp\chapter6\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapter6\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapter6\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapter6\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapter6\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.csproj.CoreCompileInputs.cache

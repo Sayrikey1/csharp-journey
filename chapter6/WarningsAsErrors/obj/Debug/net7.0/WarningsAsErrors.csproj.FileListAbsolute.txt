@@ -1,0 +1,15 @@
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.exe
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.deps.json
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.runtimeconfig.json
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.dll
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.pdb
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.dll
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\refint\WarningsAsErrors.dll
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.pdb
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapter6\WarningsAsErrors\obj\Debug\net7.0\ref\WarningsAsErrors.dll
