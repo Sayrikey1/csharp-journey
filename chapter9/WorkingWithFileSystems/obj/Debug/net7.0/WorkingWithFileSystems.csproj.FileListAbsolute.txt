@@ -1,0 +1,15 @@
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.exe
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.deps.json
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.pdb
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\refint\WorkingWithFileSystems.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.pdb
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithFileSystems\obj\Debug\net7.0\ref\WorkingWithFileSystems.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sewah\\Csharp\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj": {}
+    "C:\\Users\\sewah\\Csharp\\chapters\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sewah\\Csharp\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj": {
+    "C:\\Users\\sewah\\Csharp\\chapters\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sewah\\Csharp\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
+        "projectUniqueName": "C:\\Users\\sewah\\Csharp\\chapters\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
         "projectName": "WorkingWithRegularExpressions",
-        "projectPath": "C:\\Users\\sewah\\Csharp\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
+        "projectPath": "C:\\Users\\sewah\\Csharp\\chapters\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
         "packagesPath": "C:\\Users\\sewah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sewah\\Csharp\\chapter8\\WorkingWithRegularExpressions\\obj\\",
+        "outputPath": "C:\\Users\\sewah\\Csharp\\chapters\\chapter8\\WorkingWithRegularExpressions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sewah\\AppData\\Roaming\\NuGet\\NuGet.Config"

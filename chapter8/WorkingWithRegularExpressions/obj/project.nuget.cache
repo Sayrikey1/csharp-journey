@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N50K3gTkTX0x9v2pbuNZ7EoGjUoC5wqT9A2rjY6ff2kxasBfzavEu8iHWNpj8xRcNvVseDnFOfd6fa8KlJYWyQ==",
+  "dgSpecHash": "vZ9R3aw5kWsF3SAVsRcXL8ZxOMgQH+9b8ix8jOygqzi1yDpKLVCA75hFfgUWA9TInHcRpgawwac5OmyHcXwP/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sewah\\Csharp\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
+  "projectFilePath": "C:\\Users\\sewah\\Csharp\\chapters\\chapter8\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

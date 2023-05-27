@@ -1,0 +1,15 @@
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.exe
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.deps.json
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.pdb
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\refint\WorkingWithStreams.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.pdb
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithStreams\obj\Debug\net7.0\ref\WorkingWithStreams.dll

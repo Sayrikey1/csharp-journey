@@ -1,0 +1,17 @@
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.exe
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.deps.json
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.runtimeconfig.json
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.pdb
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\refint\WorkingWithSerialization.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.pdb
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\ref\WorkingWithSerialization.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CopyComplete

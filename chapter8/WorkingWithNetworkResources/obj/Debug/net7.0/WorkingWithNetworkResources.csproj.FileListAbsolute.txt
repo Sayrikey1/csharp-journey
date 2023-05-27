@@ -1,0 +1,15 @@
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.exe
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.deps.json
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.runtimeconfig.json
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.dll
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.pdb
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.dll
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\refint\WorkingWithNetworkResources.dll
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.pdb
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithNetworkResources\obj\Debug\net7.0\ref\WorkingWithNetworkResources.dll

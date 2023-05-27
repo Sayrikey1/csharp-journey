@@ -1,0 +1,15 @@
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.exe
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.deps.json
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.runtimeconfig.json
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.pdb
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\refint\WorkingWithJson.dll
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.pdb
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.genruntimeconfig.cache
+C:\Users\sewah\Csharp\chapters\chapter9\WorkingWithJson\obj\Debug\net7.0\ref\WorkingWithJson.dll

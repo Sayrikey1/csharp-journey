@@ -1,0 +1,5 @@
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\Users\sewah\Csharp\chapters\chapter8\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
